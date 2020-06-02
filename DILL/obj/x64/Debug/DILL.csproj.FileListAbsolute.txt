@@ -1,0 +1,10 @@
+C:\Users\jesus\Desktop\C#\DILL\DILL\bin\x64\Debug\DILL.exe.config
+C:\Users\jesus\Desktop\C#\DILL\DILL\bin\x64\Debug\DILL.exe
+C:\Users\jesus\Desktop\C#\DILL\DILL\bin\x64\Debug\DILL.pdb
+C:\Users\jesus\Desktop\C#\DILL\DILL\obj\x64\Debug\DILL.Properties.Resources.resources
+C:\Users\jesus\Desktop\C#\DILL\DILL\obj\x64\Debug\DILL.csproj.GenerateResource.cache
+C:\Users\jesus\Desktop\C#\DILL\DILL\obj\x64\Debug\DILL.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Desktop\C#\DILL\DILL\obj\x64\Debug\DILL.exe
+C:\Users\jesus\Desktop\C#\DILL\DILL\obj\x64\Debug\DILL.pdb
+C:\Users\jesus\Desktop\C#\DILL\DILL\obj\x64\Debug\DILL.DILL.resources
+C:\Users\jesus\Desktop\C#\DILL\DILL\obj\x64\Debug\DILL.EditProcess.resources
