@@ -12,4 +12,4 @@ DILL is a simple dll injector
 <a href="https://resources.jsusx.com/DILL/usage-gifs/DILL2GIF.gif"><img src="https://resources.jsusx.com/DILL/usage-gifs/DILL2GIF.gif" title="DILL GIF #2"/></a>
 
 # Support: 
-- <a href="http://jsusx.com?s=discord" target="_blank">My Discord</a>
+- <a href="http://jsusx.com?s=discord" target="_blank" rel="noopener noreferrer">My Discord</a>
